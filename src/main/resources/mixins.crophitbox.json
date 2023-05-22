@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "me.paladin.crophitbox.mixins",
+  "refmap": "mixins.crophitbox.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "BlockAccessor",
+    "CropsMixin",
+    "NetherWartMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

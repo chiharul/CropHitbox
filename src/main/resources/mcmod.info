@@ -1,0 +1,16 @@
+[
+{
+  "modid": "crophitbox",
+  "name": "CropHitbox",
+  "description": "Change crop/nether wart hitbox to 1.12 size",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PaladinDev"],
+  "credits": "Sk1er LLC for mixin code",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
