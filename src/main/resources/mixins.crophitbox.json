@@ -7,6 +7,7 @@
   "client": [
     "BlockAccessor",
     "CropsMixin",
+    "MushroomMixin",
     "NetherWartMixin"
   ],
   "injectors": {
